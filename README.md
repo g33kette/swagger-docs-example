@@ -16,6 +16,12 @@
 
 
 ### To run:
+
+- Copy `.env.example` to `.env` and update where appropriate
 - `composer install`
+
+Then if using sail:
+
+- `php artisan key:generate`
 - `./vendor/bin/sail up`
 - Swagger UI: http://localhost/api/documentation
