@@ -11,7 +11,7 @@
 - `composer require "darkaonline/l5-swagger"`
 - `php artisan vendor:publish --provider "L5Swagger\L5SwaggerServiceProvider"`
 - Add `@OA\Info` annotation to base `Controller`
-- Add route annotation to controller method (see [CatsController](./app/Http/Controllers/CatsController.php)
+- Add route annotation to controller method (see [CatsController](./app/Http/Controllers/CatsController.php))
 - Run `php artisan l5-swagger:generate`
 
 
