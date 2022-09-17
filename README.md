@@ -1,4 +1,8 @@
-## Laravel 9 + Swagger
+## Laravel 9 + 
+
+Example documentation hosted here: https://swagger-cats.g33kette.co.uk/api/documentation
+
+API specification found in: [/app/Http/Controllers/CatsController.php](app/Http/Controllers/CatsController.php)
 
 ### Links
 - [Laravel 9](https://laravel.com/docs/9.x)
